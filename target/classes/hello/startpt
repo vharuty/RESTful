@@ -1,0 +1,2 @@
+cd /home/Projects/Maven
+mvn psring-boot:run
